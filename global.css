@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-josefin-sans: "Josefin Sans";
+  --font-kumbh-sans: "Kumbh Sans";
+  --font-kaisei-decol: "Kaisei Decol";
+
+  /* font sizes */
+  --font-size-29xl: 48px;
+  --font-size-17xl: 36px;
+  --font-size-77xl: 96px;
+  --font-size-31xl: 50px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+
+  /* Border radiuses */
+  --br-27xl: 46px;
+}
